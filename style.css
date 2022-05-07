@@ -532,7 +532,7 @@ footer .social-links {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 60%;
+    width: 95%;
   }
 
   nav#navigation .menu ul:nth-child(1) {
