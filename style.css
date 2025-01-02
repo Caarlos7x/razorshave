@@ -204,7 +204,7 @@ nav {
 nav.scroll {
   background-color: var(--cor-preto-fosco);
   a {
-    color: var(--cor-branco-suave);
+    color: var(--cor-branco-suave) !important;
   }
 }
 
