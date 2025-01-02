@@ -593,6 +593,7 @@ footer .social-links {
   nav#navigation .menu ul:nth-child(1) {
     display: flex;
     gap: 3.2rem;
+    margin-left: 50px;
   }
 
   nav#navigation .menu ul li a {
